@@ -1,0 +1,3 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=5236
+
+This is a syntax coloring file for FASTA files of protein sequences, as are commonly used in proteomics.  It highlights the protein name, description, and residues in separate colors.  Invalid characters are flagged as errors.
